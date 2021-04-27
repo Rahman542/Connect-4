@@ -19,3 +19,5 @@ I believe that this new knowledge did not only help in a coding aspect, but in a
 After the pig lab I was very frustrated and concerned when it came to constructing games in python but deciding to take the challenge on a game I love made it more fun overcoming
 a more arduous task. I would say I also learned about adapting  to a situation and learning how to reserach topics about it to resolve a solution. I'm glad I was able to put my
 mind to use and come up with the project and answer I wanted, but I'm also happy that I was able to do it while learning and beleiving that I could do it.
+
+![image](https://user-images.githubusercontent.com/81891108/116183563-18976600-a6ec-11eb-8d6d-962b78245ad1.png)
